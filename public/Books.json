@@ -1,0 +1,81 @@
+[
+    {
+      "Id": 1,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://i.ibb.co/VY7ps8v/to-kill-mockingbird-0-6246f05d04644ae5ba1a02409d943a13.jpg",
+      "review": "Set in the fictional town of Maycomb, Alabama during the Great Depression, Harper Lee's 'To Kill a Mockingbird' is a poignant exploration of racial injustice and moral growth. Narrated by Scout Finch, the story follows her father, Atticus Finch, a lawyer who defends a black man falsely accused of raping a white woman. Through the trial, Lee exposes the prejudices and deep-seated racism that permeated the Southern society of the time. The novel is a timeless classic that delves into themes of empathy, compassion, and the loss of innocence.",
+      "totalPages": 336,
+      "rating": 4.5,
+      "category": "Fiction",
+      "tags": ["Classic", "Legal Drama"],
+      "publisher": "J. B. Lippincott & Co.",
+      "yearOfPublishing": 1960
+    },
+    {
+      "Id": 2,
+      "bookName": "1984",
+      "author": "George Orwell",
+      "image": "https://i.ibb.co/8dypT4w/71k-XYs4t-Cv-L-AC-UF1000-1000-QL80.jpg",
+      "review": "George Orwell's '1984' is a chilling portrayal of a dystopian society ruled by a totalitarian regime. Set in the fictional superstate of Oceania, the novel follows Winston Smith, a low-ranking member of the ruling Party who rebels against its oppressive control and surveillance. Through themes of propaganda, thought control, and the erosion of truth, Orwell warns of the dangers of unchecked authority and the loss of individual freedoms. '1984' remains a haunting reminder of the perils of authoritarianism and the importance of safeguarding democracy.",
+      "totalPages": 328,
+      "rating": 4.7,
+      "category": "Fiction",
+      "tags": ["Dystopian", "Political"],
+      "publisher": "Secker & Warburg",
+      "yearOfPublishing": 1949
+    },
+    {
+      "Id": 3,
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://i.ibb.co/tH6yvzW/the-great-gatsby-f-scott-fitzgerald-first-edition-1925-francis-cugat-rare-original-francis-cugat-dus.webp",
+      "review": "F. Scott Fitzgerald's 'The Great Gatsby' is a mesmerizing tale set in the Roaring Twenties, a time of excess and disillusionment. Narrated by Nick Carraway, the story follows Jay Gatsby, a mysterious millionaire who longs to reunite with his lost love, Daisy Buchanan. Through lavish parties, extravagant wealth, and tragic romance, Fitzgerald explores themes of the American Dream, social class, and the emptiness of materialism. 'The Great Gatsby' remains a timeless classic that captures the spirit of an era and the fragility of human aspirations.",
+      "totalPages": 180,
+      "rating": 4.4,
+      "category": "Fiction",
+      "tags": ["Classic", "Romance"],
+      "publisher": "Charles Scribner's Sons",
+      "yearOfPublishing": 1925
+    },
+    {
+      "Id": 4,
+      "bookName": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "image": "https://i.ibb.co/dGWBZ02/5857.webp",
+      "review": "J.D. Salinger's 'The Catcher in the Rye' is an iconic coming-of-age novel that continues to resonate with readers of all generations. Narrated by the disillusioned teenager Holden Caulfield, the story follows his journey through New York City after being expelled from prep school. With its candid portrayal of teenage angst, alienation, and the search for identity, Salinger's novel has become a cultural touchstone, sparking debates about adolescence, authenticity, and societal conformity. 'The Catcher in the Rye' remains a timeless masterpiece that captures the complexities of youth and the challenges of growing up.",
+      "totalPages": 224,
+      "rating": 4.3,
+      "category": "Fiction",
+      "tags": ["Coming-of-Age", "Literary"],
+      "publisher": "Little, Brown and Company",
+      "yearOfPublishing": 1951
+    },
+    {
+      "Id": 5,
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "image": "https://i.ibb.co/x5Cmkk8/pride.png",
+      "review": "Jane Austen's 'Pride and Prejudice' is a delightful romantic comedy of manners that continues to enchant readers with its wit, charm, and timeless appeal. Set in early 19th-century England, the novel follows the spirited Elizabeth Bennet as she navigates the complexities of love, marriage, and social expectations. With its sharp observations of society and memorable characters, 'Pride and Prejudice' remains a beloved classic that explores themes of class, reputation, and the power of first impressions. Austen's novel is a testament to the enduring allure of love and the triumph of true understanding.",
+      "totalPages": 279,
+      "rating": 4.6,
+      "category": "Fiction",
+      "tags": ["Romance", "Satire"],
+      "publisher": "T. Egerton, Whitehall",
+      "yearOfPublishing": 1813
+    },
+    {
+      "Id": 6,
+      "bookName": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "image": "https://i.ibb.co/NSZyNH2/9786073905527.jpg",
+      "review": "J.R.R. Tolkien's 'The Hobbit' is a captivating adventure that transports readers to the enchanting world of Middle-earth. Bilbo Baggins, a hobbit of the Shire, is swept into an epic quest by the wizard Gandalf and a company of dwarves led by Thorin Oakenshield. Their mission: to reclaim the lost kingdom of Erebor and its treasure from the fearsome dragon Smaug. Along the way, Bilbo encounters trolls, goblins, elves, and the mysterious Gollum, testing his courage and resourcefulness. Tolkien's masterful storytelling and richly imagined world have made 'The Hobbit' a timeless classic loved by readers of all ages.",
+      "totalPages": 310,
+      "rating": 4.8,
+      "category": "Fantasy",
+      "tags": ["Adventure", "Quest"],
+      "publisher": "George Allen & Unwin",
+      "yearOfPublishing": 1937
+    }
+  ]
+  

@@ -1,0 +1,118 @@
+[
+    {
+      "id": 1,
+      "book_name": "To Kill a Mockingbird",
+      "summary": "Harper Lee's Pulitzer Prize-winning masterwork of honor and injustice in the deep South—and the heroism of one man in the face of blind and violent hatred."
+    },
+    {
+      "id": 2,
+      "book_name": "1984",
+      "summary": "George Orwell's dystopian novel set in a totalitarian regime where individuality is suppressed, and the government controls every aspect of life."
+    },
+    {
+      "id": 3,
+      "book_name": "The Great Gatsby",
+      "summary": "F. Scott Fitzgerald's tale of love, wealth, and the American Dream set in the Roaring Twenties, exploring themes of aspiration, excess, and disillusionment."
+    },
+    {
+      "id": 4,
+      "book_name": "Pride and Prejudice",
+      "summary": "Jane Austen's classic romantic comedy of manners, exploring themes of marriage, social status, and the complexities of human relationships."
+    },
+    {
+      "id": 5,
+      "book_name": "The Catcher in the Rye",
+      "summary": "J.D. Salinger's timeless coming-of-age novel that follows the disillusioned teenager Holden Caulfield as he navigates the challenges of adolescence and society."
+    },
+    {
+      "id": 6,
+      "book_name": "Moby Dick",
+      "summary": "Herman Melville's epic tale of Captain Ahab's obsession with the great white whale, Moby Dick, and the crew of the Pequod's perilous journey."
+    },
+    {
+      "id": 7,
+      "book_name": "The Lord of the Rings",
+      "summary": "J.R.R. Tolkien's classic fantasy epic follows the quest to destroy the One Ring and defeat the dark lord Sauron, set in the richly detailed world of Middle-earth."
+    },
+    {
+      "id": 8,
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "summary": "J.K. Rowling's enchanting tale of a young wizard, Harry Potter, and his journey to Hogwarts School of Witchcraft and Wizardry, where he discovers his magical heritage."
+    },
+    {
+      "id": 9,
+      "book_name": "The Hobbit",
+      "summary": "J.R.R. Tolkien's beloved adventure story of Bilbo Baggins, a hobbit who embarks on a quest to reclaim the treasure guarded by the dragon Smaug, accompanied by a company of dwarves and the wizard Gandalf."
+    },
+    {
+      "id": 10,
+      "book_name": "Frankenstein",
+      "summary": "Mary Shelley's groundbreaking Gothic novel explores themes of science, morality, and the consequences of playing god, as Dr. Victor Frankenstein creates a sentient being in his laboratory."
+    },
+    {
+      "id": 11,
+      "book_name": "Jane Eyre",
+      "summary": "Charlotte Brontë's classic novel follows the life of the orphaned Jane Eyre as she faces adversity, finds love, and searches for belonging in Victorian England."
+    },
+    {
+      "id": 12,
+      "book_name": "The Picture of Dorian Gray",
+      "summary": "Oscar Wilde's philosophical novel tells the story of Dorian Gray, a young man who remains eternally youthful while his portrait ages, reflecting his inner corruption."
+    },
+    {
+      "id": 13,
+      "book_name": "Wuthering Heights",
+      "summary": "Emily Brontë's passionate and tragic tale of love and revenge on the Yorkshire moors, as Catherine Earnshaw and Heathcliff's intense bond defies societal norms and wreaks havoc on those around them."
+    },
+    {
+      "id": 14,
+      "book_name": "The Adventures of Huckleberry Finn",
+      "summary": "Mark Twain's classic novel follows the adventures of Huck Finn and Jim, an escaped slave, as they travel down the Mississippi River and confront the hypocrisy and injustice of antebellum America."
+    },
+    {
+      "id": 15,
+      "book_name": "Crime and Punishment",
+      "summary": "Fyodor Dostoevsky's psychological thriller follows the moral and mental deterioration of Raskolnikov, a young student who commits a murder and grapples with guilt and redemption in St. Petersburg."
+    },
+    {
+      "id": 16,
+      "book_name": "One Hundred Years of Solitude",
+      "summary": "Gabriel García Márquez's magical realist masterpiece chronicles the Buendía family's rise and fall in the fictional town of Macondo, blending history, myth, and imagination."
+    },
+    {
+      "id": 17,
+      "book_name": "Brave New World",
+      "summary": "Aldous Huxley's dystopian novel envisions a future society where citizens are engineered and conditioned for a predetermined social order, exploring themes of technology, control, and individuality."
+    },
+    {
+      "id": 18,
+      "book_name": "Anna Karenina",
+      "summary": "Leo Tolstoy's epic novel explores the complexities of love, marriage, and society in Imperial Russia, as Anna Karenina's affair with Count Vronsky leads to scandal and tragedy."
+    },
+    {
+      "id": 19,
+      "book_name": "The Brothers Karamazov",
+      "summary": "Fyodor Dostoevsky's philosophical novel examines faith, morality, and free will through the lives of the Karamazov brothers, as they grapple with patricide, guilt, and redemption."
+    },
+    {
+      "id": 20,
+      "book_name": "The Odyssey",
+      "summary": "Homer's epic poem follows the Greek hero Odysseus's journey home from the Trojan War, encountering mythical creatures, gods, and challenges along the way, while his wife Penelope fends off suitors in Ithaca."
+    },
+    {
+      "id": 21,
+      "book_name": "Don Quixote",
+      "summary": "Miguel de Cervantes's satirical novel follows the delusional knight-errant Don Quixote and his loyal squire Sancho Panza as they embark on absurd adventures, challenging social norms and romanticizing chivalry."
+    },
+    {
+      "id": 22,
+      "book_name": "The Divine Comedy",
+      "summary": "Dante Alighieri's epic poem recounts the author's journey through Hell, Purgatory, and Paradise, guided by the Roman poet Virgil and his beloved Beatrice, exploring themes of sin, redemption, and divine love."
+    },
+    {
+      "id": 23,
+      "book_name": "War and Peace",
+      "summary": "Leo Tolstoy's monumental novel chronicles the lives of Russian aristocrats during the Napoleonic Wars, blending historical events with intimate human dramas and philosophical reflections on power, fate, and the nature of existence."
+    }
+]
+  
